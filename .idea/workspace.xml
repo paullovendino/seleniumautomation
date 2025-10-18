@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b0ad306-da47-4147-854f-51d6da88b45e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SeleniumProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningSelenium/AutomationTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningSelenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TallyingAutomation/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningSelenium/AutomationTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TallyingAutomation/AutomationTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningSelenium/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +68,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IT Admin\PycharmProjects\SeleniumProject1\TallyingAutomation" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760694127082</updated>
       <workItem from="1760694129411" duration="2484000" />
-      <workItem from="1760696997328" duration="6479000" />
+      <workItem from="1760696997328" duration="7047000" />
     </task>
     <servers />
   </component>
